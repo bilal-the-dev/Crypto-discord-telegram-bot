@@ -5,7 +5,7 @@ I am using the bot for forwarding crypto messages from a telegram group to mine 
 This bot is then used for some automation i.e knowing when a crypto coin appears thrice in a row continually or discountinous manner for 15 seconds.
 ## Video tutorial
 
-Wanna see how bot works actually? Watch the video on my [Twitter]() or [Linkedin]() or [Facebook]().
+Wanna see how bot works actually? Watch the video on my [Twitter](https://twitter.com/bilal_the_dev/status/1762741507034145228) or [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7168506087317483521/) or [Facebook](https://www.facebook.com/61556182875591/videos/445124047948372/).
 
 ## Installation
 
